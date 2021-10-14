@@ -78,6 +78,7 @@ sections:
           caption: lorem-ipsum
           opacity: 100
           type: ImageBlock
+          url: /favicon.ico
   - type: CtaSection
     variant: variant-b
     colors: colors-c

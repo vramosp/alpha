@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "style": "bold",
-        "size": 60,
+        "size": 2,
         "lineHeight": 60,
         "decoration": "none"
     },
@@ -18,5 +18,4 @@
     "complimentary-1": "#e9f6ff",
     "complimentary-2": "#fffde2",
     "info": "#ffa928"
-
 }

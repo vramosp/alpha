@@ -32,6 +32,14 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
+    feature:
+      elementId: ''
+      url: lorem-ipsum
+      autoplay: false
+      loop: false
+      muted: false
+      controls: false
+      type: VideoBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c

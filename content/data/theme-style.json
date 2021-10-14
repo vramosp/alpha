@@ -4,7 +4,7 @@
         "style": "bold",
         "size": 50,
         "lineHeight": 60,
-        "decoration": "none"
+        "decoration": "underline"
     },
     "h2": {
         "style": "bold",

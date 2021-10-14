@@ -72,6 +72,12 @@ sections:
           type: ImageBlock
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
+        logo:
+          elementId: ''
+          altText: lorem-ipsum
+          caption: lorem-ipsum
+          opacity: 100
+          type: ImageBlock
   - type: CtaSection
     variant: variant-b
     colors: colors-c

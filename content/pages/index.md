@@ -32,6 +32,12 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
+    feature:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c

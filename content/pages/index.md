@@ -42,7 +42,7 @@ sections:
     colors: colors-c
     width: wide
     height: tall
-    topGap: medium
+    topGap: none
     bottomGap: medium
     contentWidth: large
     contentAlignHoriz: left

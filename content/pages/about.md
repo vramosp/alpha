@@ -1,5 +1,5 @@
 ---
-title: About us
+title: This is the title
 sections:
   - type: HeroSection
     title: About Us
